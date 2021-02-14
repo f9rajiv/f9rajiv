@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @f9rajiv
-- 👀 I’m interested in web & software devlopment- 🌱 I’m currently learning python django
+- 👀 I’m interested in web & software devlopment
+- 🌱 I’m currently learning python django
 - 💞️ I’m looking to collaborate on web based projects.
 - 📫 How to reach me f9rajiv@gmail.com
 
